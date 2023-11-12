@@ -1,0 +1,1 @@
+This is my first HTML project. I will create a fictional website to display a recipe. This project is completed as part of the Odin Projet curriculum. It is the summative assignment for the HTML Foundation Unit.
