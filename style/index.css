@@ -3,3 +3,32 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+body    {
+    background-color: beige;
+}
+
+.title  {
+    background-color: white;
+    padding: 10px;
+    margin: 16px 50px;
+    text-align: center;
+}
+
+.lasagna    {
+    background-color: white;
+    padding: 5px;
+    margin: 8px 150px;
+}
+
+.pie    {
+    background-color: white;
+    padding: 5px;
+    margin: 8px 150px;
+}
+
+.ribs    {
+    background-color: white;
+    padding: 5px;
+    margin: 8px 150px;
+}
