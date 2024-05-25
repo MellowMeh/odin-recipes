@@ -1,0 +1,53 @@
+*   {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body    {
+    background-color: #DFD0B8;
+}
+
+.title-card {
+    background-color: #153448;
+    padding: 4px;
+    margin: 4px;
+}
+
+.image-card {
+    background-color: #153448;
+    padding: 30px;
+    margin: 0px 10px;
+}
+
+.title  {
+    background-color: #3C5B6F;
+    padding: 10px;
+    margin: 8px 25px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.layer  {
+    background: #3C5B6F;
+    padding: 4px;
+    margin: 4px 100px;
+}
+
+.lasagna,
+.pie,
+.ribs    {
+    background-color: #948979;
+    padding: 15px;
+    margin: 8px 50px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+a:link {
+    color:whitesmoke;
+}
+
+a:visited {
+    color:whitesmoke;
+}
