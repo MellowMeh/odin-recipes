@@ -47,8 +47,17 @@ img {
     background-color: #948979;
     padding: 40px;
     margin: 8px 10px;
-    text-align:justify;
     color: whitesmoke;
+}
+
+.description,
+.ingredients,
+.steps  {
+    text-align:center;
+}
+
+.text   {
+    text-align: justify;
 }
 
 a:link {
