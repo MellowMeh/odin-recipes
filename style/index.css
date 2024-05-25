@@ -15,18 +15,8 @@ body    {
     text-align: center;
 }
 
-.lasagna    {
-    background-color: white;
-    padding: 5px;
-    margin: 8px 150px;
-}
-
-.pie    {
-    background-color: white;
-    padding: 5px;
-    margin: 8px 150px;
-}
-
+.lasagna,
+.pie,
 .ribs    {
     background-color: white;
     padding: 5px;
