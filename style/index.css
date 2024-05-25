@@ -32,10 +32,17 @@ body    {
 .lasagna,
 .pie,
 .ribs    {
-    background-color: #FED8B1;
+    background-color: #948979;
     padding: 15px;
     margin: 8px 50px;
     text-align: center;
-    color: white;
+    color: whitesmoke;
 }
 
+a:link {
+    color:whitesmoke;
+}
+
+a:visited {
+    color:whitesmoke;
+}
