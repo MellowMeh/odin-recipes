@@ -38,8 +38,10 @@ img {
 
 .layer  {
     background: #3C5B6F;
+    display: block;
+    width: 600px;
     padding: 4px;
-    margin: 50px 100px;
+    margin: 50px auto;
 }
 
 .description,
